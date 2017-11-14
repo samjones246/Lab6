@@ -7,6 +7,7 @@ public abstract class Animal {
         this.name = name;
         this.age = age;
     }
+
     // Getter methods
     public int getAge() {
         return age;

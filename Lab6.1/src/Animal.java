@@ -8,10 +8,10 @@ public class Animal {
         this.age = age;
     }
 
+    // Getter methods
     public int getAge() {
         return age;
     }
-
     public String getName() {
         return name;
     }
